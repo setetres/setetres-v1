@@ -21,23 +21,23 @@
   <polyline points="389.4,2.5 389.4,169.5 408.7,151.2"/>
   <style>
     .xxxxxxxooo-svg {
-      width: 50%;
       height: 50%;
+      left: 50%;
       position: absolute;
       top: 50%;
-      left: 50%;
       transform: translate(-50%, -50%);
+      width: 50%;
     }
 
     .xxxxxxxooo-svg polyline {
+      animation: sttrs 6666ms cubic-bezier(.2, 1, .2, 1) infinite;
       fill: none;
-      stroke: #000000;
       stroke-dasharray: 333;
       stroke-dashoffset: 666;
       stroke-linecap: square;
       stroke-linejoin: round;
       stroke-width: 5;
-      animation: sttrs 6666ms cubic-bezier(.2, 1, .2, 1) infinite;
+      stroke: #000000;
     }
 
     .xxxxxxxooo-svg polyline:nth-child(1) {
