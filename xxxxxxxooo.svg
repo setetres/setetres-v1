@@ -33,7 +33,7 @@
       fill: none;
       stroke: #000000;
       stroke-dasharray: 333;
-      stroke-dashoffset: 333;
+      stroke-dashoffset: 666;
       stroke-linecap: square;
       stroke-linejoin: round;
       stroke-width: 5;
