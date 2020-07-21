@@ -7,5 +7,5 @@
 <hr>
 
 <a href="https://xxxxxxx.ooo">
-    <img src="https://raw.githubusercontent.com/setetres/setetres/master/sttrs.svg" width="100"/>
+    <img src="https://raw.githubusercontent.com/setetres/setetres/master/sttrs.svg" width="73"/>
 </a>
