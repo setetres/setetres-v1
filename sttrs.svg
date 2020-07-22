@@ -27,7 +27,7 @@
     }
 
     .sttrs-svg line {
-      animation: sttrs 6666ms cubic-bezier(.4, 0, .14, 1) 1s forwards infinite;
+      animation: sttrs 6666ms cubic-bezier(.4, 0, .14, 1) 666ms forwards infinite;
     }
 
     @keyframes sttrs {
