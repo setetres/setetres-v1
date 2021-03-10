@@ -37,7 +37,7 @@
       stroke-linecap: square;
       stroke-linejoin: round;
       stroke-width: 5;
-      stroke: #000000;
+      stroke: var(--color-text-primary);
     }
 
     .xxxxxxxooo-svg polyline:nth-child(1) {
