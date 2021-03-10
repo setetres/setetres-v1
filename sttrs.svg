@@ -19,7 +19,7 @@
       stroke-linecap: round;
       stroke-linejoin: round;
       stroke-width: 15;
-      stroke: #7F7F7F;
+      stroke: blue;
     }
 
     .sttrs-svg path {
