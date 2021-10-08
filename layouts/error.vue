@@ -1,16 +1,5 @@
 <template>
-  <ul
-    class="
-      flex flex-col
-      md:flex-row
-      space-y-2
-      md:space-y-0 md:space-x-8
-      items-center
-      justify-center
-    "
-  >
-    <li>ERROR</li>
-  </ul>
+  <div></div>
 </template>
 <script>
 export default {

@@ -10,9 +10,19 @@
       </div>
       <div>
         <div class="relative z-30">
-          <div class="max-w-7xl mx-auto p-16">
+          <div class="max-w-7xl mx-auto p-8 lg:p-16">
             <p class="text-xl text-white uppercase">Design & Development</p>
-            <h2 class="text-9xl text-white italic">
+            <h2
+              class="
+                text-5xl
+                sm:text-6xl
+                md:text-7xl
+                lg:text-8xl
+                xl:text-9xl
+                text-white
+                italic
+              "
+            >
               <a
                 href="https://setetres.st"
                 target="_blank"
@@ -21,14 +31,36 @@
                 SETETRES.ST
               </a>
             </h2>
-            <p class="font-serif text-6xl text-white">Estabilished in 2008.</p>
+            <p
+              class="
+                font-serif
+                text-2xl
+                sm:text-3xl
+                md:text-4xl
+                lg:text-5xl
+                xl:text-6xl
+                text-white
+              "
+            >
+              Estabilished in 2008.
+            </p>
           </div>
         </div>
         <hr class="relative z-10" />
         <div class="relative z-30">
-          <div class="max-w-7xl mx-auto p-16">
+          <div class="max-w-7xl mx-auto p-8 md:p-12 lg:p-16">
             <p class="text-xl text-white uppercase">Music & Video</p>
-            <h2 class="text-9xl text-white italic">
+            <h2
+              class="
+                text-5xl
+                sm:text-6xl
+                md:text-7xl
+                lg:text-8xl
+                xl:text-9xl
+                text-white
+                italic
+              "
+            >
               <a
                 href="https://xxxxxxx.ooo"
                 target="_blank"
@@ -37,16 +69,36 @@
                 XXXXXXX.OOO
               </a>
             </h2>
-            <p class="font-serif text-6xl text-white">
+            <p
+              class="
+                font-serif
+                text-2xl
+                sm:text-3xl
+                md:text-4xl
+                lg:text-5xl
+                xl:text-6xl
+                text-white
+              "
+            >
               A knife-grinder music endeavor.
             </p>
           </div>
         </div>
         <hr class="relative z-10" />
         <div class="relative z-30">
-          <div class="max-w-7xl mx-auto p-16">
+          <div class="max-w-7xl mx-auto p-8 md:p-12 lg:p-16">
             <p class="text-xl text-white uppercase">Art Collective</p>
-            <h2 class="text-9xl text-white italic">
+            <h2
+              class="
+                text-5xl
+                sm:text-6xl
+                md:text-7xl
+                lg:text-8xl
+                xl:text-9xl
+                text-white
+                italic
+              "
+            >
               <a
                 href="https://mortelenta.org"
                 target="_blank"
@@ -55,18 +107,38 @@
                 MORTELENTA.ORG
               </a>
             </h2>
-            <p class="font-serif text-6xl text-white">
+            <p
+              class="
+                font-serif
+                text-2xl
+                sm:text-3xl
+                md:text-4xl
+                lg:text-5xl
+                xl:text-6xl
+                text-white
+              "
+            >
               Fellowship of the stream.
             </p>
           </div>
         </div>
         <hr class="relative z-10" />
         <div class="relative z-30">
-          <div class="max-w-7xl mx-auto p-16">
+          <div class="max-w-7xl mx-auto p-8 md:p-12 lg:p-16">
             <p class="text-xl text-white uppercase">
               Streaming & Entertainment
             </p>
-            <h2 class="text-9xl text-white italic">
+            <h2
+              class="
+                text-5xl
+                sm:text-6xl
+                md:text-7xl
+                lg:text-8xl
+                xl:text-9xl
+                text-white
+                italic
+              "
+            >
               <a
                 href="https://creepycrappy.show"
                 target="_blank"
@@ -75,7 +147,17 @@
                 CREEPYCRAPPY.SHOW
               </a>
             </h2>
-            <p class="font-serif text-6xl text-white">
+            <p
+              class="
+                font-serif
+                text-2xl
+                sm:text-3xl
+                md:text-4xl
+                lg:text-5xl
+                xl:text-6xl
+                text-white
+              "
+            >
               Yet another streaming channel.
             </p>
           </div>
