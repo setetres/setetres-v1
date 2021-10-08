@@ -15,7 +15,7 @@ export default {
 
   head() {
     return {
-      title: '𝙎 𝙀 𝙏 𝙀 𝙏 𝙍 𝙀 𝙎 — Error',
+      title: '73 — Error',
     }
   },
 

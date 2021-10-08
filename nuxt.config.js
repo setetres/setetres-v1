@@ -10,7 +10,7 @@ export default {
     bodyAttrs: {
       class: 'select-none',
     },
-    title: '𝙎 𝙀 𝙏 𝙀 𝙏 𝙍 𝙀 𝙎',
+    title: '73',
     meta: [
       { charset: 'utf-8' },
       {
@@ -21,15 +21,15 @@ export default {
       {
         hid: 'description',
         name: 'description',
-        content: '#000073',
+        content: 'Media, Unlimited.',
       },
 
       { hid: 'og:type', property: 'og:type', content: 'website' },
-      { hid: 'og:title', property: 'og:title', content: '𝙎 𝙀 𝙏 𝙀 𝙏 𝙍 𝙀 𝙎' },
+      { hid: 'og:title', property: 'og:title', content: '73' },
       {
         hid: 'og:description',
         property: 'og:description',
-        content: '#000073',
+        content: 'Media, Unlimited.',
       },
       {
         hid: 'og:image',
@@ -46,12 +46,12 @@ export default {
       {
         hid: 'twitter:title',
         name: 'twitter:title',
-        content: '𝙎 𝙀 𝙏 𝙀 𝙏 𝙍 𝙀 𝙎',
+        content: '73',
       },
       {
         hid: 'twitter:description',
         name: 'twitter:description',
-        content: '#000073',
+        content: 'Media, Unlimited.',
       },
       {
         hid: 'twitter:image',
