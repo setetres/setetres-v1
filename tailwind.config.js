@@ -6,7 +6,7 @@ module.exports = {
     './plugins/**/*.{js,ts}',
     './nuxt.config.{js,ts}',
   ],
-  darkMode: 'class', // or 'media' or 'class'
+  darkMode: 'class',
   theme: {
     fontFamily: {
       sans: '"Anton", ui-serif, Georgia, Cambria, "Times New Roman", Times, serif',
@@ -18,5 +18,5 @@ module.exports = {
   variants: {
     extend: {},
   },
-  plugins: [require('@tailwindcss/aspect-ratio')],
+  plugins: [],
 }
