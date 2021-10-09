@@ -14,7 +14,7 @@
             <p class="text-xl text-white uppercase">Design & Development</p>
             <h2
               class="
-                text-5xl
+                text-4xl
                 sm:text-6xl
                 md:text-7xl
                 lg:text-8xl
@@ -52,7 +52,7 @@
             <p class="text-xl text-white uppercase">Music & Video</p>
             <h2
               class="
-                text-5xl
+                text-4xl
                 sm:text-6xl
                 md:text-7xl
                 lg:text-8xl
@@ -90,7 +90,7 @@
             <p class="text-xl text-white uppercase">Art Collective</p>
             <h2
               class="
-                text-5xl
+                text-4xl
                 sm:text-6xl
                 md:text-7xl
                 lg:text-8xl
@@ -130,7 +130,7 @@
             </p>
             <h2
               class="
-                text-5xl
+                text-4xl
                 sm:text-6xl
                 md:text-7xl
                 lg:text-8xl
