@@ -162,6 +162,46 @@
             </p>
           </div>
         </div>
+        <hr class="relative z-10" />
+        <div class="relative z-30">
+          <div class="max-w-7xl mx-auto p-8 md:p-12 lg:p-16">
+            <p class="text-xl text-white uppercase">
+              Gaming & Modding
+            </p>
+            <h2
+              class="
+                text-4xl
+                sm:text-6xl
+                md:text-7xl
+                lg:text-8xl
+                xl:text-9xl
+                text-white
+                italic
+              "
+            >
+              <a
+                href="https://hashima.gg"
+                target="_blank"
+                rel="noreferrer noopener"
+              >
+                HASHIMA.GG
+              </a>
+            </h2>
+            <p
+              class="
+                font-serif
+                text-2xl
+                sm:text-3xl
+                md:text-4xl
+                lg:text-5xl
+                xl:text-6xl
+                text-white
+              "
+            >
+              DayZ Modded Map
+            </p>
+          </div>
+        </div>
       </div>
     </main>
   </div>

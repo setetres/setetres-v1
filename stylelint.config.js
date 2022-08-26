@@ -1,4 +1,11 @@
 module.exports = {
   extends: ['stylelint-config-standard', 'stylelint-config-prettier'],
-  rules: {},
+  "overrides": [
+    {
+      "files": ["**/*.vue"],
+      "customSyntax": "postcss-html",
+      "rules": {
+      }
+    }
+  ]
 }
