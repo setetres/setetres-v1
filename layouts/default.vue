@@ -198,7 +198,7 @@
                 text-white
               "
             >
-              DayZ Modded Map
+              DayZ Modded Map.
             </p>
           </div>
         </div>
